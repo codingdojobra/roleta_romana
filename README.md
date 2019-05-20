@@ -1,2 +1,2 @@
 # roleta_romana
-Sessão de Dojo realizada no dia 18-05-2019
+Resolução do desafio Roleta Romana, http://dojopuzzles.com/problemas/exibe/roleta-romana/
